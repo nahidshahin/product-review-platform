@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "id": "3e0f7f67-61c4-419a-8a63-284b4a0010ff",
+      "productId": "fbf69627-2eb6-4066-8351-1e5bc0624a9e",
+      "author": "John Doe",
+      "rating": 5,
+      "comment": "Great sound quality!",
+      "date": "2025-05-21T15:16:46.332Z"
+    },
+    {
+      "id": "c59b9e39-2318-4d2b-abdc-132e656b1988",
+      "productId": "fbf69627-2eb6-4066-8351-1e5bc0624a9e",
+      "author": "Jane Smith",
+      "rating": 4,
+      "comment": "Very comfortable but battery could last longer",
+      "date": "2025-05-21T03:16:46.332Z"
+    },
+    {
+      "id": "c2014fc1-0df8-4d05-9075-170637e90a51",
+      "productId": "a827995f-2d25-42bb-b722-c518508daa2d",
+      "author": "Mike Johnson",
+      "rating": 5,
+      "comment": "Amazing camera and performance",
+      "date": "2025-05-20T15:16:46.332Z"
+    }
+  ]
+}

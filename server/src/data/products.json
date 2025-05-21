@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": "fbf69627-2eb6-4066-8351-1e5bc0624a9e",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 4.5
+    },
+    {
+      "id": "a827995f-2d25-42bb-b722-c518508daa2d",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 5
+    },
+    {
+      "id": "852b7359-f1c1-4354-826f-baab19eb7b1d",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "5e39f03e-c57e-4544-a807-da03e576f167",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "476f43ef-4360-400a-87ff-6e05e4bc4218",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "5cafac37-7131-480e-ad9f-741d6441499a",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "6e9609e3-387f-4137-9f19-aa9e68302f97",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "cb582d8a-58c9-4708-861f-b03d923ca18d",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "f032ab05-c923-4478-a43a-04de12bde88e",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "f5c46f86-3e91-4f7a-bb4c-a97491988abe",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "24793323-90f8-45a1-b330-19d360bafbee",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "c4153cb4-43ea-4dfc-b07b-864e9f34a1b4",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "b35105fe-5ea8-434f-96ef-6fba05c8392e",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "19e3b3bd-174e-42f7-ad35-28f14db129eb",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "c118638e-e4ae-4c68-bfdf-78fc5186baa7",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "1d0d3a66-4db6-482b-b777-076eb18a6542",
+      "name": "Dell Laptop",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "Electronics",
+      "price": 999.99,
+      "dateAdded": "2025-05-21T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "51f6a849-fd4a-43b7-beab-2caee77f319c",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced camera",
+      "category": "Electronics",
+      "price": 899.99,
+      "dateAdded": "2025-05-20T15:16:46.332Z",
+      "averageRating": 0
+    },
+    {
+      "id": "219d7bf8-aba6-4b5d-b3d7-c9dbd2eb95c8",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with thermal carafe",
+      "category": "Home",
+      "price": 129.99,
+      "dateAdded": "2025-05-19T15:16:46.332Z",
+      "averageRating": 0
+    }
+  ]
+}
