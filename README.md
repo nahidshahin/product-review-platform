@@ -29,4 +29,9 @@ Build a product review and rating platform where users can browse products, post
 - swagger: for API documentation
 - typescript: TS is the languaged used for the backend too
 
-
+## How to run
+Both server and client can be run following same steps:
+- Go to client / server folder to run the project
+- Install the npm packages first using `npm i`
+- If install goes well run by `npm run dev`
+- Enjoy !  
